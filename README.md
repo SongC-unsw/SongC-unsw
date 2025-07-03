@@ -4,7 +4,7 @@
 ## About Me
  - 💻 I love coding.
  - ⚡️ Seeking freeom in life
- - 🎿 Hobbies other than coding: travel, swimming, badminton
+ - 🎿 Hobbies other than coding: travel, swimming, badminton, exploring skiing ⛷️
  - 🌱 I’m currently learning React.
 ### Skills & Technologies
 
