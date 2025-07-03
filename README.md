@@ -10,10 +10,10 @@
 
 Here are some of the technologies and tools I enjoy working with:
 
-## Languages &
+## Languages & Frameworks
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c++)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=cpp)
 ![react](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Typescript](https://img.shields.io/badge/-Typescript-000000?style=flat&logo=typescript)
