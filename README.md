@@ -10,20 +10,18 @@
 
 Here are some of the technologies and tools I enjoy working with:
 
-## Languages
+## Languages &
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c++)
 ![react](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Typescript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=typescript)
+![Typescript](https://img.shields.io/badge/-Typescript-000000?style=flat&logo=typescript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=nodejs)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
-*   **Frameworks & Libraries:**
-    *   [React]
-    *   [Node.js]
-*   **Tools & Platforms:**
-    *   [Git]
-    *   [Docker]
-    *   [AWS/Azure/GCP]
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql)
 
 <img align='left' width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SongC-unsw&layout=compact">
 <img width="300" src="https://github-readme-stats.vercel.app/api?username=SongC-unsw&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19">
